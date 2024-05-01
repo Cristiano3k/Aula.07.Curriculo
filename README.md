@@ -25,7 +25,7 @@
   Mensageiros Eletrônicos
 - Documentação de Processos
 - Helpdesk
-- Conhecimento Windows Server, Active
+- Conhecimento em Windows Server, Active
   Diretory, GPO, File system
 - Conhecimento Suporte Windows
 
