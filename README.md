@@ -56,9 +56,9 @@ Huawei
 
 
 
-## Projetos🛠️
+## Projeto
 
-- Alguns códigos de domínio básico em Python.
-<a href="https://github.com/LucasCardozodpc/Projetinhos-Python.git">
-  <img src="https://img.shields.io/badge/Ver_Projeto_no_GitHub-9cf?logo=github" alt="Ver Projeto no GitHub">
+- Projeto em Python - API Strealit
+<a href="https://github.com/Cristiano3k/ProjetoSeriesNetflix?tab=readme-ov-file">
+  <img src="https://img.shields.io/badge/Ver_Projeto_no_GitHub-9cf?logo=github" alt="Abrir Projeto">
 </a>
