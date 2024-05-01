@@ -17,7 +17,7 @@
 ### [VEGA I.T](https://profranchising.com.br/) - Curitiba, Paraná (10/2023 - Atualmente)
 - Suporte Técnico a Usuários e Plataformas
 - Windows e Linux
-- Atendimentos Remoto e Local
+- Atendimento Remoto e Local
 - Gerenciamento de Servidores
 - Suporte a Redes, Switchs, Roteadores e Access
   point
