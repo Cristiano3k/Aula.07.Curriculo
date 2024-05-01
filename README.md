@@ -14,7 +14,7 @@
 
 <img src="https://media.licdn.com/dms/image/C4D0BAQEhbqASCLtVgA/company-logo_200_200/0/1669903522699/vegait_logo?e=1722470400&v=beta&t=A4Qdgy-j0mnzalRgEMvJNpr8SUv1hcLopCRksQ_NXdY" width="50px" height="50px">
 
-### [VEGA I.T](https://profranchising.com.br/) - Curitiba, Paraná (10/2023 - Atualmente)
+### [VEGA I.T](https://vegait.com/) - Curitiba, Paraná (10/2023 - Atualmente)
 - Suporte Técnico a Usuários e Plataformas
 - Windows e Linux
 - Atendimento Remoto e Local
