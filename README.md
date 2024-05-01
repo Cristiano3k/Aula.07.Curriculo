@@ -41,7 +41,7 @@
 - *Inglês intermediário*
 - *Espanhol intermediário*
   
-- ## Suporte a Equipamentos
+## Suporte a Equipamentos
 MikroTik
 
 <img src="https://media.licdn.com/dms/image/D4E0BAQGQKWlHzhchQw/company-logo_200_200/0/1690833565962/rahmati_mtcna_logo?e=1722470400&v=beta&t=kAmjqnegWRRxCxeXnYar4xIITAPwRIRzsED58twTw2o" width="200px" height="200px">
