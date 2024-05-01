@@ -8,7 +8,7 @@
 - Email: cristiano_lima.machado@outlook.com
 - Whatsapp: <a href="https://wa.me/5541997603451">Contato</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/cristianolimamachado/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristianolimamachado/)
 
 ## Analista de Redes
 
