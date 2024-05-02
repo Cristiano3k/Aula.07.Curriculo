@@ -1,4 +1,3 @@
-
 <img src="https://avatars.githubusercontent.com/u/168237023?s=400&u=16a4055b92e4b8fa15c8642a6ea31f67c3513192&v=4" width="200px" height="200px">
 
 <h1>Cristiano Lima Machado</h1>
